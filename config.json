@@ -1,18 +1,18 @@
 {
     "dev": {
-        "kafkahost": "10.7.55.55:9092",
+        "kafkahost": "",
         "sap_api": ""
     },
     "testing": {
-        "kafkahost": "10.7.55.55:9092",
+        "kafkahost": "",
         "sap_api": ""
     },
     "staging": {
-        "kafkahost": "10.7.55.55:9092",
+        "kafkahost": "",
         "sap_api": ""
     },
     "production": {
-        "kafkahost": "10.7.55.55:9092",
+        "kafkahost": "",
         "sap_api": ""
     }
 }
